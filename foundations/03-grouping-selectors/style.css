@@ -1,0 +1,14 @@
+button{
+    font-size: 28px;
+    font-family: "Helvetica" "Times New Roman" sans-serif;
+}
+
+.contrast-white-text{
+    color: white;
+    background-color: black;
+}
+
+.contrast-black-text{
+    color: black;
+    background: yellow;
+}
